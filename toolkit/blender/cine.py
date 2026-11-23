@@ -79,7 +79,7 @@ def sky_sun(elevation_deg=48, rotation_deg=200, strength=0.35, sun_energy=2.2):
     wd = bpy.data.worlds.get('World') or bpy.data.worlds.new('World')
     bpy.context.scene.world = wd; wd.use_nodes = True
     nt = wd.node_tree
-    sk = nt.nodes.new('ShaderNodeTexSky'); sk.sky_type = 'MULTIPLE_SCATTERING'
+    sk = nt.nodes.new('ShaderNodeTexSky'); sk.sky_type = 'MULTIPLE_SCATTERING' if 'MULTIPLE_SCATTERING' in [e.identifier for e in sk.bl_rna.properties['sky_type'].enum_items] else 'NISHITA'
     sk.sun_elevation = math.radians(elevation_deg); sk.sun_rotation = math.radians(rotation_deg)
     nt.links.new(sk.outputs['Color'], nt.nodes['Background'].inputs['Color'])
     nt.nodes['Background'].inputs['Strength'].default_value = strength
