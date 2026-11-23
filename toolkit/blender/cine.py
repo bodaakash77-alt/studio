@@ -24,6 +24,21 @@ def set_cinematic_defaults(scene, samples=64, res=(1080, 1920), exposure=-0.5):
     scene.view_settings.exposure = exposure
     scene.render.fps = 30
 
+def set_sky_type(sk):
+    """Blender < 5.0 supports only PREETHAM, HOSEK_WILKIE, NISHITA: always use NISHITA there.
+    Blender >= 5.0: use MULTIPLE_SCATTERING only if listed, else NISHITA. Never assigns an unlisted value."""
+    try:
+        allowed = [e.identifier for e in sk.bl_rna.properties['sky_type'].enum_items]
+    except Exception:
+        allowed = []
+    import bpy as _b
+    major = _b.app.version[0]
+    want = 'MULTIPLE_SCATTERING' if (major >= 5 and 'MULTIPLE_SCATTERING' in allowed) else 'NISHITA'
+    try:
+        sk.sky_type = want
+    except TypeError:
+        sk.sky_type = 'NISHITA'
+
 def add_camera(name, lens=35, fstop=None, focus=None):
     cam_data = bpy.data.cameras.new(name)
     cam_data.lens = lens
@@ -79,7 +94,7 @@ def sky_sun(elevation_deg=48, rotation_deg=200, strength=0.35, sun_energy=2.2):
     wd = bpy.data.worlds.get('World') or bpy.data.worlds.new('World')
     bpy.context.scene.world = wd; wd.use_nodes = True
     nt = wd.node_tree
-    sk = nt.nodes.new('ShaderNodeTexSky'); sk.sky_type = 'MULTIPLE_SCATTERING' if 'MULTIPLE_SCATTERING' in [e.identifier for e in sk.bl_rna.properties['sky_type'].enum_items] else 'NISHITA'
+    sk = nt.nodes.new('ShaderNodeTexSky'); set_sky_type(sk)
     sk.sun_elevation = math.radians(elevation_deg); sk.sun_rotation = math.radians(rotation_deg)
     nt.links.new(sk.outputs['Color'], nt.nodes['Background'].inputs['Color'])
     nt.nodes['Background'].inputs['Strength'].default_value = strength
