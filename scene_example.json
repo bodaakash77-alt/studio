@@ -1,0 +1,18 @@
+{
+  "project": "example",
+  "fps": 30,
+  "resolution": [1080, 1920],
+  "note": "Example placeholder text only. Replace voice_text with your own script.",
+  "scenes": [
+    {"id": 1, "start_time": 0.0, "end_time": 4.0, "voice_text": "[your line 1]", "visual_description": "map zoom into the region", "camera_move": "push_in", "animation_type": "MAP"},
+    {"id": 2, "start_time": 4.0, "end_time": 8.0, "voice_text": "[your line 2]", "visual_description": "character walks up the hill", "camera_move": "orbit", "animation_type": "CHARACTER"},
+    {"id": 3, "start_time": 8.0, "end_time": 12.0, "voice_text": "[your line 3]", "visual_description": "country outline with highlight", "camera_move": "top_down", "animation_type": "MAP"},
+    {"id": 4, "start_time": 12.0, "end_time": 16.0, "voice_text": "[your line 4]", "visual_description": "character at water pool", "camera_move": "pull_out", "animation_type": "CHARACTER"},
+    {"id": 5, "start_time": 16.0, "end_time": 20.0, "voice_text": "[your line 5]", "visual_description": "state boundary zoom", "camera_move": "push_in", "animation_type": "MAP"},
+    {"id": 6, "start_time": 20.0, "end_time": 24.0, "voice_text": "[your line 6]", "visual_description": "character looks at sunset", "camera_move": "crane", "animation_type": "CHARACTER"},
+    {"id": 7, "start_time": 24.0, "end_time": 28.0, "voice_text": "[your line 7]", "visual_description": "route animation on map", "camera_move": "drone", "animation_type": "MAP"},
+    {"id": 8, "start_time": 28.0, "end_time": 32.0, "voice_text": "[your line 8]", "visual_description": "character waves", "camera_move": "push_in", "animation_type": "CHARACTER"},
+    {"id": 9, "start_time": 32.0, "end_time": 36.0, "voice_text": "[your line 9]", "visual_description": "map with pin", "camera_move": "top_down", "animation_type": "MAP"},
+    {"id": 10, "start_time": 36.0, "end_time": 40.0, "voice_text": "[your line 10]", "visual_description": "character closing shot", "camera_move": "pull_out", "animation_type": "CHARACTER"}
+  ]
+}

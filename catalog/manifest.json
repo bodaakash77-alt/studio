@@ -1,0 +1,5577 @@
+[
+ {
+  "id": "hdri.apartment",
+  "name": "HDRI apartment (512x256 preview-grade)",
+  "category": "hdri",
+  "tags": [
+   "hdri",
+   "lighting",
+   "apartment",
+   "environment"
+  ],
+  "path": "library/core/hdri/apartment.exr",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "interior apartment, warm window light. Low resolution: use for lighting only, not as a visible backdrop."
+ },
+ {
+  "id": "hdri.bridge",
+  "name": "HDRI bridge (512x256 preview-grade)",
+  "category": "hdri",
+  "tags": [
+   "hdri",
+   "lighting",
+   "bridge",
+   "environment"
+  ],
+  "path": "library/core/hdri/bridge.exr",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "outdoor bridge environment daylight. Low resolution: use for lighting only, not as a visible backdrop."
+ },
+ {
+  "id": "hdri.city",
+  "name": "HDRI city (512x256 preview-grade)",
+  "category": "hdri",
+  "tags": [
+   "hdri",
+   "lighting",
+   "city",
+   "environment"
+  ],
+  "path": "library/core/hdri/city.exr",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "city street daylight. Low resolution: use for lighting only, not as a visible backdrop."
+ },
+ {
+  "id": "hdri.dawn",
+  "name": "HDRI dawn (512x256 preview-grade)",
+  "category": "hdri",
+  "tags": [
+   "hdri",
+   "lighting",
+   "dawn",
+   "cinematic"
+  ],
+  "path": "library/core/hdri/dawn.exr",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "dawn sky soft warm light. Low resolution: use for lighting only, not as a visible backdrop."
+ },
+ {
+  "id": "hdri.esplanade",
+  "name": "HDRI esplanade (512x256 preview-grade)",
+  "category": "hdri",
+  "tags": [
+   "hdri",
+   "lighting",
+   "esplanade",
+   "environment"
+  ],
+  "path": "library/core/hdri/esplanade.exr",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "open esplanade, bright sky. Low resolution: use for lighting only, not as a visible backdrop."
+ },
+ {
+  "id": "hdri.forest",
+  "name": "HDRI forest (512x256 preview-grade)",
+  "category": "hdri",
+  "tags": [
+   "hdri",
+   "lighting",
+   "forest",
+   "environment"
+  ],
+  "path": "library/core/hdri/forest.exr",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "forest canopy filtered green light. Low resolution: use for lighting only, not as a visible backdrop."
+ },
+ {
+  "id": "hdri.hall",
+  "name": "HDRI hall (512x256 preview-grade)",
+  "category": "hdri",
+  "tags": [
+   "hdri",
+   "lighting",
+   "hall",
+   "environment"
+  ],
+  "path": "library/core/hdri/hall.exr",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "indoor hall. Low resolution: use for lighting only, not as a visible backdrop."
+ },
+ {
+  "id": "hdri.lab",
+  "name": "HDRI lab (512x256 preview-grade)",
+  "category": "hdri",
+  "tags": [
+   "hdri",
+   "lighting",
+   "lab",
+   "environment"
+  ],
+  "path": "library/core/hdri/lab.exr",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "indoor laboratory neutral. Low resolution: use for lighting only, not as a visible backdrop."
+ },
+ {
+  "id": "hdri.lobby",
+  "name": "HDRI lobby (512x256 preview-grade)",
+  "category": "hdri",
+  "tags": [
+   "hdri",
+   "lighting",
+   "lobby",
+   "environment"
+  ],
+  "path": "library/core/hdri/lobby.exr",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "indoor lobby. Low resolution: use for lighting only, not as a visible backdrop."
+ },
+ {
+  "id": "hdri.night",
+  "name": "HDRI night (512x256 preview-grade)",
+  "category": "hdri",
+  "tags": [
+   "hdri",
+   "lighting",
+   "night",
+   "environment"
+  ],
+  "path": "library/core/hdri/night.exr",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "night sky, low light. Low resolution: use for lighting only, not as a visible backdrop."
+ },
+ {
+  "id": "hdri.park",
+  "name": "HDRI park (512x256 preview-grade)",
+  "category": "hdri",
+  "tags": [
+   "hdri",
+   "lighting",
+   "park",
+   "environment"
+  ],
+  "path": "library/core/hdri/park.exr",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "park daylight overcast green. Low resolution: use for lighting only, not as a visible backdrop."
+ },
+ {
+  "id": "hdri.sky",
+  "name": "HDRI sky (512x256 preview-grade)",
+  "category": "hdri",
+  "tags": [
+   "hdri",
+   "lighting",
+   "sky",
+   "environment"
+  ],
+  "path": "library/core/hdri/sky.exr",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "clear daytime sky. Low resolution: use for lighting only, not as a visible backdrop."
+ },
+ {
+  "id": "hdri.studio",
+  "name": "HDRI studio (512x256 preview-grade)",
+  "category": "hdri",
+  "tags": [
+   "hdri",
+   "lighting",
+   "studio",
+   "environment"
+  ],
+  "path": "library/core/hdri/studio.exr",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "studio softbox lighting. Low resolution: use for lighting only, not as a visible backdrop."
+ },
+ {
+  "id": "hdri.sunrise",
+  "name": "HDRI sunrise (512x256 preview-grade)",
+  "category": "hdri",
+  "tags": [
+   "hdri",
+   "lighting",
+   "sunrise",
+   "cinematic"
+  ],
+  "path": "library/core/hdri/sunrise.exr",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "sunrise golden light low sun. Low resolution: use for lighting only, not as a visible backdrop."
+ },
+ {
+  "id": "hdri.sunset",
+  "name": "HDRI sunset (512x256 preview-grade)",
+  "category": "hdri",
+  "tags": [
+   "hdri",
+   "lighting",
+   "sunset",
+   "cinematic"
+  ],
+  "path": "library/core/hdri/sunset.exr",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "sunset orange warm light. Low resolution: use for lighting only, not as a visible backdrop."
+ },
+ {
+  "id": "hdri.venice",
+  "name": "HDRI venice (512x256 preview-grade)",
+  "category": "hdri",
+  "tags": [
+   "hdri",
+   "lighting",
+   "venice",
+   "cinematic"
+  ],
+  "path": "library/core/hdri/venice.exr",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "venice sunset warm outdoor. Low resolution: use for lighting only, not as a visible backdrop."
+ },
+ {
+  "id": "hdri.warehouse",
+  "name": "HDRI warehouse (512x256 preview-grade)",
+  "category": "hdri",
+  "tags": [
+   "hdri",
+   "lighting",
+   "warehouse",
+   "environment"
+  ],
+  "path": "library/core/hdri/warehouse.exr",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "indoor warehouse dim. Low resolution: use for lighting only, not as a visible backdrop."
+ },
+ {
+  "id": "hdri.workshop",
+  "name": "HDRI workshop (512x256 preview-grade)",
+  "category": "hdri",
+  "tags": [
+   "hdri",
+   "lighting",
+   "workshop",
+   "environment"
+  ],
+  "path": "library/core/hdri/workshop.exr",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "indoor workshop. Low resolution: use for lighting only, not as a visible backdrop."
+ },
+ {
+  "id": "map.india_states_ne10m",
+  "name": "India states 1:10m (Natural Earth admin-1)",
+  "category": "map",
+  "tags": [
+   "map",
+   "india",
+   "states",
+   "andhra pradesh",
+   "telangana",
+   "boundary",
+   "geojson",
+   "geography"
+  ],
+  "path": "library/core/maps/india_states_ne10m.geojson",
+  "source": "Natural Earth via github.com/nvkelso/natural-earth-vector",
+  "url": "https://github.com/nvkelso/natural-earth-vector",
+  "license": "Public Domain (Natural Earth terms)",
+  "downloaded": "2026-11-23",
+  "description": "36 Indian states/UTs boundaries, 2024-era Natural Earth; no district boundaries (Nandyal district not included). Disputed-border depiction follows Natural Earth, verify before publishing."
+ },
+ {
+  "id": "map.world_atlas_countries-110m",
+  "name": "world-atlas countries-110m TopoJSON",
+  "category": "map",
+  "tags": [
+   "map",
+   "world",
+   "countries",
+   "topojson",
+   "geography",
+   "boundary"
+  ],
+  "path": "library/core/maps/countries-110m.json",
+  "source": "npm world-atlas 2.0.2 (ISC) built from Natural Earth",
+  "url": "https://github.com/topojson/world-atlas",
+  "license": "ISC code / Natural Earth public domain data",
+  "downloaded": "2026-11-23",
+  "description": "World countries boundaries at 110m scale."
+ },
+ {
+  "id": "map.world_atlas_countries-50m",
+  "name": "world-atlas countries-50m TopoJSON",
+  "category": "map",
+  "tags": [
+   "map",
+   "world",
+   "countries",
+   "topojson",
+   "geography",
+   "boundary"
+  ],
+  "path": "library/core/maps/countries-50m.json",
+  "source": "npm world-atlas 2.0.2 (ISC) built from Natural Earth",
+  "url": "https://github.com/topojson/world-atlas",
+  "license": "ISC code / Natural Earth public domain data",
+  "downloaded": "2026-11-23",
+  "description": "World countries boundaries at 50m scale."
+ },
+ {
+  "id": "map.world_atlas_countries-10m",
+  "name": "world-atlas countries-10m TopoJSON",
+  "category": "map",
+  "tags": [
+   "map",
+   "world",
+   "countries",
+   "topojson",
+   "geography",
+   "boundary"
+  ],
+  "path": "library/core/maps/countries-10m.json",
+  "source": "npm world-atlas 2.0.2 (ISC) built from Natural Earth",
+  "url": "https://github.com/topojson/world-atlas",
+  "license": "ISC code / Natural Earth public domain data",
+  "downloaded": "2026-11-23",
+  "description": "World countries boundaries at 10m scale."
+ },
+ {
+  "id": "map.world_atlas_land-110m",
+  "name": "world-atlas land-110m TopoJSON",
+  "category": "map",
+  "tags": [
+   "map",
+   "world",
+   "countries",
+   "topojson",
+   "geography",
+   "boundary"
+  ],
+  "path": "library/core/maps/land-110m.json",
+  "source": "npm world-atlas 2.0.2 (ISC) built from Natural Earth",
+  "url": "https://github.com/topojson/world-atlas",
+  "license": "ISC code / Natural Earth public domain data",
+  "downloaded": "2026-11-23",
+  "description": "World land boundaries at 110m scale."
+ },
+ {
+  "id": "map.world_atlas_land-50m",
+  "name": "world-atlas land-50m TopoJSON",
+  "category": "map",
+  "tags": [
+   "map",
+   "world",
+   "countries",
+   "topojson",
+   "geography",
+   "boundary"
+  ],
+  "path": "library/core/maps/land-50m.json",
+  "source": "npm world-atlas 2.0.2 (ISC) built from Natural Earth",
+  "url": "https://github.com/topojson/world-atlas",
+  "license": "ISC code / Natural Earth public domain data",
+  "downloaded": "2026-11-23",
+  "description": "World land boundaries at 50m scale."
+ },
+ {
+  "id": "map.world_atlas_land-10m",
+  "name": "world-atlas land-10m TopoJSON",
+  "category": "map",
+  "tags": [
+   "map",
+   "world",
+   "countries",
+   "topojson",
+   "geography",
+   "boundary"
+  ],
+  "path": "library/core/maps/land-10m.json",
+  "source": "npm world-atlas 2.0.2 (ISC) built from Natural Earth",
+  "url": "https://github.com/topojson/world-atlas",
+  "license": "ISC code / Natural Earth public domain data",
+  "downloaded": "2026-11-23",
+  "description": "World land boundaries at 10m scale."
+ },
+ {
+  "id": "font.inter_black",
+  "name": "Font inter_black.json",
+  "category": "font",
+  "tags": [
+   "font",
+   "typography",
+   "text"
+  ],
+  "path": "library/core/fonts/inter_black.json",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0 (package) - verify each font before commercial use",
+  "commercial_ok": true,
+  "downloaded": "2026-11-23",
+  "description": "3D text font json/ttf from pmndrs/assets. Package declares CC0; confirm per-font origin if used in published video."
+ },
+ {
+  "id": "font.inter_black_italic",
+  "name": "Font inter_black_italic.json",
+  "category": "font",
+  "tags": [
+   "font",
+   "typography",
+   "text"
+  ],
+  "path": "library/core/fonts/inter_black_italic.json",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0 (package) - verify each font before commercial use",
+  "commercial_ok": true,
+  "downloaded": "2026-11-23",
+  "description": "3D text font json/ttf from pmndrs/assets. Package declares CC0; confirm per-font origin if used in published video."
+ },
+ {
+  "id": "font.inter_bold",
+  "name": "Font inter_bold.json",
+  "category": "font",
+  "tags": [
+   "font",
+   "typography",
+   "text"
+  ],
+  "path": "library/core/fonts/inter_bold.json",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0 (package) - verify each font before commercial use",
+  "commercial_ok": true,
+  "downloaded": "2026-11-23",
+  "description": "3D text font json/ttf from pmndrs/assets. Package declares CC0; confirm per-font origin if used in published video."
+ },
+ {
+  "id": "font.inter_bold_italic",
+  "name": "Font inter_bold_italic.json",
+  "category": "font",
+  "tags": [
+   "font",
+   "typography",
+   "text"
+  ],
+  "path": "library/core/fonts/inter_bold_italic.json",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0 (package) - verify each font before commercial use",
+  "commercial_ok": true,
+  "downloaded": "2026-11-23",
+  "description": "3D text font json/ttf from pmndrs/assets. Package declares CC0; confirm per-font origin if used in published video."
+ },
+ {
+  "id": "font.inter_extra_bold",
+  "name": "Font inter_extra_bold.json",
+  "category": "font",
+  "tags": [
+   "font",
+   "typography",
+   "text"
+  ],
+  "path": "library/core/fonts/inter_extra_bold.json",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0 (package) - verify each font before commercial use",
+  "commercial_ok": true,
+  "downloaded": "2026-11-23",
+  "description": "3D text font json/ttf from pmndrs/assets. Package declares CC0; confirm per-font origin if used in published video."
+ },
+ {
+  "id": "font.inter_extra_bold_italic",
+  "name": "Font inter_extra_bold_italic.json",
+  "category": "font",
+  "tags": [
+   "font",
+   "typography",
+   "text"
+  ],
+  "path": "library/core/fonts/inter_extra_bold_italic.json",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0 (package) - verify each font before commercial use",
+  "commercial_ok": true,
+  "downloaded": "2026-11-23",
+  "description": "3D text font json/ttf from pmndrs/assets. Package declares CC0; confirm per-font origin if used in published video."
+ },
+ {
+  "id": "font.inter_extra_light",
+  "name": "Font inter_extra_light.woff",
+  "category": "font",
+  "tags": [
+   "font",
+   "typography",
+   "text"
+  ],
+  "path": "library/core/fonts/inter_extra_light.woff",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0 (package) - verify each font before commercial use",
+  "commercial_ok": true,
+  "downloaded": "2026-11-23",
+  "description": "3D text font json/ttf from pmndrs/assets. Package declares CC0; confirm per-font origin if used in published video."
+ },
+ {
+  "id": "font.inter_extra_light_italic",
+  "name": "Font inter_extra_light_italic.woff",
+  "category": "font",
+  "tags": [
+   "font",
+   "typography",
+   "text"
+  ],
+  "path": "library/core/fonts/inter_extra_light_italic.woff",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0 (package) - verify each font before commercial use",
+  "commercial_ok": true,
+  "downloaded": "2026-11-23",
+  "description": "3D text font json/ttf from pmndrs/assets. Package declares CC0; confirm per-font origin if used in published video."
+ },
+ {
+  "id": "font.inter_italic",
+  "name": "Font inter_italic.json",
+  "category": "font",
+  "tags": [
+   "font",
+   "typography",
+   "text"
+  ],
+  "path": "library/core/fonts/inter_italic.json",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0 (package) - verify each font before commercial use",
+  "commercial_ok": true,
+  "downloaded": "2026-11-23",
+  "description": "3D text font json/ttf from pmndrs/assets. Package declares CC0; confirm per-font origin if used in published video."
+ },
+ {
+  "id": "font.inter_light",
+  "name": "Font inter_light.json",
+  "category": "font",
+  "tags": [
+   "font",
+   "typography",
+   "text"
+  ],
+  "path": "library/core/fonts/inter_light.json",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0 (package) - verify each font before commercial use",
+  "commercial_ok": true,
+  "downloaded": "2026-11-23",
+  "description": "3D text font json/ttf from pmndrs/assets. Package declares CC0; confirm per-font origin if used in published video."
+ },
+ {
+  "id": "font.inter_light_italic",
+  "name": "Font inter_light_italic.json",
+  "category": "font",
+  "tags": [
+   "font",
+   "typography",
+   "text"
+  ],
+  "path": "library/core/fonts/inter_light_italic.json",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0 (package) - verify each font before commercial use",
+  "commercial_ok": true,
+  "downloaded": "2026-11-23",
+  "description": "3D text font json/ttf from pmndrs/assets. Package declares CC0; confirm per-font origin if used in published video."
+ },
+ {
+  "id": "font.inter_medium",
+  "name": "Font inter_medium.json",
+  "category": "font",
+  "tags": [
+   "font",
+   "typography",
+   "text"
+  ],
+  "path": "library/core/fonts/inter_medium.json",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0 (package) - verify each font before commercial use",
+  "commercial_ok": true,
+  "downloaded": "2026-11-23",
+  "description": "3D text font json/ttf from pmndrs/assets. Package declares CC0; confirm per-font origin if used in published video."
+ },
+ {
+  "id": "font.inter_medium_italic",
+  "name": "Font inter_medium_italic.json",
+  "category": "font",
+  "tags": [
+   "font",
+   "typography",
+   "text"
+  ],
+  "path": "library/core/fonts/inter_medium_italic.json",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0 (package) - verify each font before commercial use",
+  "commercial_ok": true,
+  "downloaded": "2026-11-23",
+  "description": "3D text font json/ttf from pmndrs/assets. Package declares CC0; confirm per-font origin if used in published video."
+ },
+ {
+  "id": "font.inter_regular",
+  "name": "Font inter_regular.json",
+  "category": "font",
+  "tags": [
+   "font",
+   "typography",
+   "text"
+  ],
+  "path": "library/core/fonts/inter_regular.json",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0 (package) - verify each font before commercial use",
+  "commercial_ok": true,
+  "downloaded": "2026-11-23",
+  "description": "3D text font json/ttf from pmndrs/assets. Package declares CC0; confirm per-font origin if used in published video."
+ },
+ {
+  "id": "font.inter_semi_bold",
+  "name": "Font inter_semi_bold.json",
+  "category": "font",
+  "tags": [
+   "font",
+   "typography",
+   "text"
+  ],
+  "path": "library/core/fonts/inter_semi_bold.json",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0 (package) - verify each font before commercial use",
+  "commercial_ok": true,
+  "downloaded": "2026-11-23",
+  "description": "3D text font json/ttf from pmndrs/assets. Package declares CC0; confirm per-font origin if used in published video."
+ },
+ {
+  "id": "font.inter_semi_bold_italic",
+  "name": "Font inter_semi_bold_italic.json",
+  "category": "font",
+  "tags": [
+   "font",
+   "typography",
+   "text"
+  ],
+  "path": "library/core/fonts/inter_semi_bold_italic.json",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0 (package) - verify each font before commercial use",
+  "commercial_ok": true,
+  "downloaded": "2026-11-23",
+  "description": "3D text font json/ttf from pmndrs/assets. Package declares CC0; confirm per-font origin if used in published video."
+ },
+ {
+  "id": "font.inter_thin",
+  "name": "Font inter_thin.json",
+  "category": "font",
+  "tags": [
+   "font",
+   "typography",
+   "text"
+  ],
+  "path": "library/core/fonts/inter_thin.json",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0 (package) - verify each font before commercial use",
+  "commercial_ok": true,
+  "downloaded": "2026-11-23",
+  "description": "3D text font json/ttf from pmndrs/assets. Package declares CC0; confirm per-font origin if used in published video."
+ },
+ {
+  "id": "font.inter_thin_italic",
+  "name": "Font inter_thin_italic.json",
+  "category": "font",
+  "tags": [
+   "font",
+   "typography",
+   "text"
+  ],
+  "path": "library/core/fonts/inter_thin_italic.json",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0 (package) - verify each font before commercial use",
+  "commercial_ok": true,
+  "downloaded": "2026-11-23",
+  "description": "3D text font json/ttf from pmndrs/assets. Package declares CC0; confirm per-font origin if used in published video."
+ },
+ {
+  "id": "matcap.0000",
+  "name": "Matcap 0000.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0000.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0001",
+  "name": "Matcap 0001.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0001.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0002",
+  "name": "Matcap 0002.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0002.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0003",
+  "name": "Matcap 0003.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0003.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0004",
+  "name": "Matcap 0004.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0004.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0005",
+  "name": "Matcap 0005.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0005.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0006",
+  "name": "Matcap 0006.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0006.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0007",
+  "name": "Matcap 0007.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0007.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0008",
+  "name": "Matcap 0008.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0008.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0009",
+  "name": "Matcap 0009.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0009.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0010",
+  "name": "Matcap 0010.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0010.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0011",
+  "name": "Matcap 0011.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0011.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0012",
+  "name": "Matcap 0012.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0012.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0013",
+  "name": "Matcap 0013.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0013.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0014",
+  "name": "Matcap 0014.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0014.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0015",
+  "name": "Matcap 0015.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0015.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0016",
+  "name": "Matcap 0016.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0016.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0017",
+  "name": "Matcap 0017.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0017.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0018",
+  "name": "Matcap 0018.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0018.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0019",
+  "name": "Matcap 0019.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0019.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0020",
+  "name": "Matcap 0020.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0020.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0021",
+  "name": "Matcap 0021.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0021.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0022",
+  "name": "Matcap 0022.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0022.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0023",
+  "name": "Matcap 0023.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0023.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0024",
+  "name": "Matcap 0024.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0024.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0025",
+  "name": "Matcap 0025.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0025.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0026",
+  "name": "Matcap 0026.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0026.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0027",
+  "name": "Matcap 0027.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0027.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0028",
+  "name": "Matcap 0028.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0028.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0029",
+  "name": "Matcap 0029.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0029.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0030",
+  "name": "Matcap 0030.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0030.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0031",
+  "name": "Matcap 0031.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0031.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0032",
+  "name": "Matcap 0032.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0032.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0033",
+  "name": "Matcap 0033.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0033.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0034",
+  "name": "Matcap 0034.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0034.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0035",
+  "name": "Matcap 0035.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0035.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0036",
+  "name": "Matcap 0036.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0036.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0037",
+  "name": "Matcap 0037.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0037.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0038",
+  "name": "Matcap 0038.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0038.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0039",
+  "name": "Matcap 0039.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0039.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0040",
+  "name": "Matcap 0040.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0040.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0041",
+  "name": "Matcap 0041.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0041.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0042",
+  "name": "Matcap 0042.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0042.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0043",
+  "name": "Matcap 0043.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0043.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0044",
+  "name": "Matcap 0044.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0044.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0045",
+  "name": "Matcap 0045.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0045.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0046",
+  "name": "Matcap 0046.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0046.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0047",
+  "name": "Matcap 0047.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0047.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0048",
+  "name": "Matcap 0048.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0048.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0049",
+  "name": "Matcap 0049.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0049.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0050",
+  "name": "Matcap 0050.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0050.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0051",
+  "name": "Matcap 0051.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0051.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0052",
+  "name": "Matcap 0052.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0052.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0053",
+  "name": "Matcap 0053.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0053.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0054",
+  "name": "Matcap 0054.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0054.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0055",
+  "name": "Matcap 0055.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0055.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0056",
+  "name": "Matcap 0056.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0056.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0057",
+  "name": "Matcap 0057.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0057.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0058",
+  "name": "Matcap 0058.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0058.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0059",
+  "name": "Matcap 0059.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0059.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0060",
+  "name": "Matcap 0060.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0060.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0061",
+  "name": "Matcap 0061.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0061.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0062",
+  "name": "Matcap 0062.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0062.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0063",
+  "name": "Matcap 0063.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0063.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0064",
+  "name": "Matcap 0064.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0064.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0065",
+  "name": "Matcap 0065.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0065.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0066",
+  "name": "Matcap 0066.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0066.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0067",
+  "name": "Matcap 0067.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0067.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0068",
+  "name": "Matcap 0068.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0068.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0069",
+  "name": "Matcap 0069.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0069.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0070",
+  "name": "Matcap 0070.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0070.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0071",
+  "name": "Matcap 0071.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0071.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0072",
+  "name": "Matcap 0072.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0072.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0073",
+  "name": "Matcap 0073.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0073.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0074",
+  "name": "Matcap 0074.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0074.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0075",
+  "name": "Matcap 0075.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0075.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0076",
+  "name": "Matcap 0076.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0076.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0077",
+  "name": "Matcap 0077.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0077.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0078",
+  "name": "Matcap 0078.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0078.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0079",
+  "name": "Matcap 0079.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0079.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0080",
+  "name": "Matcap 0080.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0080.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0081",
+  "name": "Matcap 0081.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0081.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0082",
+  "name": "Matcap 0082.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0082.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0083",
+  "name": "Matcap 0083.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0083.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0084",
+  "name": "Matcap 0084.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0084.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0085",
+  "name": "Matcap 0085.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0085.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0086",
+  "name": "Matcap 0086.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0086.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0087",
+  "name": "Matcap 0087.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0087.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0088",
+  "name": "Matcap 0088.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0088.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0089",
+  "name": "Matcap 0089.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0089.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0090",
+  "name": "Matcap 0090.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0090.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0091",
+  "name": "Matcap 0091.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0091.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0092",
+  "name": "Matcap 0092.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0092.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0093",
+  "name": "Matcap 0093.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0093.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0094",
+  "name": "Matcap 0094.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0094.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0095",
+  "name": "Matcap 0095.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0095.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0096",
+  "name": "Matcap 0096.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0096.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0097",
+  "name": "Matcap 0097.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0097.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0098",
+  "name": "Matcap 0098.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0098.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0099",
+  "name": "Matcap 0099.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0099.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0100",
+  "name": "Matcap 0100.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0100.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0101",
+  "name": "Matcap 0101.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0101.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0102",
+  "name": "Matcap 0102.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0102.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0103",
+  "name": "Matcap 0103.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0103.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0104",
+  "name": "Matcap 0104.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0104.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0105",
+  "name": "Matcap 0105.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0105.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0106",
+  "name": "Matcap 0106.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0106.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0107",
+  "name": "Matcap 0107.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0107.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0108",
+  "name": "Matcap 0108.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0108.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0109",
+  "name": "Matcap 0109.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0109.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0110",
+  "name": "Matcap 0110.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0110.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0111",
+  "name": "Matcap 0111.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0111.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0112",
+  "name": "Matcap 0112.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0112.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0113",
+  "name": "Matcap 0113.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0113.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0114",
+  "name": "Matcap 0114.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0114.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0115",
+  "name": "Matcap 0115.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0115.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0116",
+  "name": "Matcap 0116.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0116.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0117",
+  "name": "Matcap 0117.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0117.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0118",
+  "name": "Matcap 0118.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0118.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0119",
+  "name": "Matcap 0119.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0119.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0120",
+  "name": "Matcap 0120.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0120.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0121",
+  "name": "Matcap 0121.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0121.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0122",
+  "name": "Matcap 0122.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0122.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0123",
+  "name": "Matcap 0123.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0123.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0124",
+  "name": "Matcap 0124.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0124.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0125",
+  "name": "Matcap 0125.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0125.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0126",
+  "name": "Matcap 0126.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0126.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0127",
+  "name": "Matcap 0127.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0127.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0128",
+  "name": "Matcap 0128.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0128.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0129",
+  "name": "Matcap 0129.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0129.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0130",
+  "name": "Matcap 0130.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0130.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0131",
+  "name": "Matcap 0131.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0131.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0132",
+  "name": "Matcap 0132.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0132.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0133",
+  "name": "Matcap 0133.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0133.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0134",
+  "name": "Matcap 0134.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0134.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0135",
+  "name": "Matcap 0135.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0135.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0136",
+  "name": "Matcap 0136.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0136.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0137",
+  "name": "Matcap 0137.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0137.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0138",
+  "name": "Matcap 0138.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0138.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0139",
+  "name": "Matcap 0139.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0139.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0140",
+  "name": "Matcap 0140.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0140.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0141",
+  "name": "Matcap 0141.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0141.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0142",
+  "name": "Matcap 0142.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0142.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0143",
+  "name": "Matcap 0143.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0143.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0144",
+  "name": "Matcap 0144.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0144.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0145",
+  "name": "Matcap 0145.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0145.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0146",
+  "name": "Matcap 0146.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0146.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0147",
+  "name": "Matcap 0147.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0147.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0148",
+  "name": "Matcap 0148.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0148.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0149",
+  "name": "Matcap 0149.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0149.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0150",
+  "name": "Matcap 0150.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0150.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0151",
+  "name": "Matcap 0151.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0151.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0152",
+  "name": "Matcap 0152.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0152.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0153",
+  "name": "Matcap 0153.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0153.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0154",
+  "name": "Matcap 0154.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0154.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0155",
+  "name": "Matcap 0155.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0155.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0156",
+  "name": "Matcap 0156.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0156.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0157",
+  "name": "Matcap 0157.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0157.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0158",
+  "name": "Matcap 0158.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0158.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0159",
+  "name": "Matcap 0159.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0159.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0160",
+  "name": "Matcap 0160.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0160.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0161",
+  "name": "Matcap 0161.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0161.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0162",
+  "name": "Matcap 0162.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0162.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0163",
+  "name": "Matcap 0163.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0163.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0164",
+  "name": "Matcap 0164.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0164.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0165",
+  "name": "Matcap 0165.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0165.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0166",
+  "name": "Matcap 0166.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0166.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0167",
+  "name": "Matcap 0167.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0167.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0168",
+  "name": "Matcap 0168.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0168.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0169",
+  "name": "Matcap 0169.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0169.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0170",
+  "name": "Matcap 0170.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0170.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0171",
+  "name": "Matcap 0171.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0171.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0172",
+  "name": "Matcap 0172.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0172.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0173",
+  "name": "Matcap 0173.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0173.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0174",
+  "name": "Matcap 0174.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0174.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0175",
+  "name": "Matcap 0175.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0175.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0176",
+  "name": "Matcap 0176.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0176.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0177",
+  "name": "Matcap 0177.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0177.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0178",
+  "name": "Matcap 0178.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0178.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0179",
+  "name": "Matcap 0179.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0179.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0180",
+  "name": "Matcap 0180.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0180.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0181",
+  "name": "Matcap 0181.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0181.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0182",
+  "name": "Matcap 0182.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0182.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0183",
+  "name": "Matcap 0183.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0183.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0184",
+  "name": "Matcap 0184.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0184.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0185",
+  "name": "Matcap 0185.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0185.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0186",
+  "name": "Matcap 0186.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0186.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0187",
+  "name": "Matcap 0187.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0187.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0188",
+  "name": "Matcap 0188.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0188.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0189",
+  "name": "Matcap 0189.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0189.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0190",
+  "name": "Matcap 0190.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0190.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0191",
+  "name": "Matcap 0191.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0191.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0192",
+  "name": "Matcap 0192.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0192.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0193",
+  "name": "Matcap 0193.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0193.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0194",
+  "name": "Matcap 0194.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0194.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0195",
+  "name": "Matcap 0195.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0195.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0196",
+  "name": "Matcap 0196.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0196.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0197",
+  "name": "Matcap 0197.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0197.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0198",
+  "name": "Matcap 0198.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0198.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0199",
+  "name": "Matcap 0199.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0199.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0200",
+  "name": "Matcap 0200.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0200.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0201",
+  "name": "Matcap 0201.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0201.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0202",
+  "name": "Matcap 0202.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0202.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0203",
+  "name": "Matcap 0203.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0203.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0204",
+  "name": "Matcap 0204.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0204.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0205",
+  "name": "Matcap 0205.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0205.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0206",
+  "name": "Matcap 0206.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0206.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0207",
+  "name": "Matcap 0207.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0207.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0208",
+  "name": "Matcap 0208.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0208.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0209",
+  "name": "Matcap 0209.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0209.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0210",
+  "name": "Matcap 0210.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0210.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0211",
+  "name": "Matcap 0211.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0211.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0212",
+  "name": "Matcap 0212.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0212.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0213",
+  "name": "Matcap 0213.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0213.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0214",
+  "name": "Matcap 0214.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0214.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0215",
+  "name": "Matcap 0215.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0215.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0216",
+  "name": "Matcap 0216.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0216.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0217",
+  "name": "Matcap 0217.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0217.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0218",
+  "name": "Matcap 0218.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0218.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0219",
+  "name": "Matcap 0219.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0219.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0220",
+  "name": "Matcap 0220.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0220.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0221",
+  "name": "Matcap 0221.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0221.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0222",
+  "name": "Matcap 0222.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0222.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0223",
+  "name": "Matcap 0223.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0223.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0224",
+  "name": "Matcap 0224.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0224.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0225",
+  "name": "Matcap 0225.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0225.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0226",
+  "name": "Matcap 0226.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0226.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0227",
+  "name": "Matcap 0227.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0227.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0228",
+  "name": "Matcap 0228.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0228.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0229",
+  "name": "Matcap 0229.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0229.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0230",
+  "name": "Matcap 0230.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0230.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0231",
+  "name": "Matcap 0231.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0231.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0232",
+  "name": "Matcap 0232.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0232.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0233",
+  "name": "Matcap 0233.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0233.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0234",
+  "name": "Matcap 0234.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0234.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0235",
+  "name": "Matcap 0235.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0235.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0236",
+  "name": "Matcap 0236.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0236.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0237",
+  "name": "Matcap 0237.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0237.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0238",
+  "name": "Matcap 0238.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0238.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0239",
+  "name": "Matcap 0239.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0239.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0240",
+  "name": "Matcap 0240.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0240.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0241",
+  "name": "Matcap 0241.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0241.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0242",
+  "name": "Matcap 0242.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0242.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0243",
+  "name": "Matcap 0243.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0243.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0244",
+  "name": "Matcap 0244.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0244.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0245",
+  "name": "Matcap 0245.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0245.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0246",
+  "name": "Matcap 0246.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0246.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0247",
+  "name": "Matcap 0247.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0247.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0248",
+  "name": "Matcap 0248.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0248.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0249",
+  "name": "Matcap 0249.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0249.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0250",
+  "name": "Matcap 0250.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0250.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0251",
+  "name": "Matcap 0251.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0251.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0252",
+  "name": "Matcap 0252.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0252.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0253",
+  "name": "Matcap 0253.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0253.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0254",
+  "name": "Matcap 0254.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0254.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0255",
+  "name": "Matcap 0255.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0255.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0256",
+  "name": "Matcap 0256.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0256.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0257",
+  "name": "Matcap 0257.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0257.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0258",
+  "name": "Matcap 0258.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0258.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0259",
+  "name": "Matcap 0259.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0259.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0260",
+  "name": "Matcap 0260.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0260.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0261",
+  "name": "Matcap 0261.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0261.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0262",
+  "name": "Matcap 0262.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0262.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0263",
+  "name": "Matcap 0263.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0263.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0264",
+  "name": "Matcap 0264.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0264.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0265",
+  "name": "Matcap 0265.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0265.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0266",
+  "name": "Matcap 0266.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0266.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0267",
+  "name": "Matcap 0267.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0267.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0268",
+  "name": "Matcap 0268.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0268.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0269",
+  "name": "Matcap 0269.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0269.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0270",
+  "name": "Matcap 0270.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0270.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0271",
+  "name": "Matcap 0271.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0271.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0272",
+  "name": "Matcap 0272.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0272.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0273",
+  "name": "Matcap 0273.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0273.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0274",
+  "name": "Matcap 0274.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0274.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0275",
+  "name": "Matcap 0275.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0275.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0276",
+  "name": "Matcap 0276.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0276.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0277",
+  "name": "Matcap 0277.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0277.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0278",
+  "name": "Matcap 0278.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0278.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0279",
+  "name": "Matcap 0279.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0279.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0280",
+  "name": "Matcap 0280.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0280.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0281",
+  "name": "Matcap 0281.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0281.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0282",
+  "name": "Matcap 0282.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0282.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ },
+ {
+  "id": "matcap.0283",
+  "name": "Matcap 0283.webp",
+  "category": "matcap",
+  "tags": [
+   "matcap",
+   "material",
+   "preview",
+   "shading"
+  ],
+  "path": "library/core/matcaps/0283.webp",
+  "source": "npm @pmndrs/assets 1.7.0 (CC0-1.0, Base64 of Poly Haven/other CC0 assets)",
+  "url": "https://github.com/pmndrs/assets",
+  "license": "CC0-1.0",
+  "downloaded": "2026-11-23",
+  "description": "Matcap shading image for quick material previews."
+ }
+]
