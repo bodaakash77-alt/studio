@@ -1,0 +1,5 @@
+{
+  "map_zoom": {"file_name": "whoosh-slow-medium.wav", "why": "1 s sweep with a settled tail; fits a camera push or pull on a map without overpowering it"},
+  "greenland_reveal": {"file_name": "impact-deep-firm.wav", "why": "deep, booming landing; big enough for the Greenland reveal beat"},
+  "suspense_before_secret": {"file_name": "riser-4s-strong.wav", "why": "4 s bright rise that peaks at its end; place it so the peak lands on the secret"}
+}
