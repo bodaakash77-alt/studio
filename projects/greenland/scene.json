@@ -1,0 +1,419 @@
+{
+ "project": "greenland",
+ "fps": 30,
+ "resolution": [
+  1080,
+  1920
+ ],
+ "note": "Durations are estimates (3-5 s per scene). Re-time start_time/end_time to the real voice-over audio when it exists.",
+ "scenes": [
+  {
+   "id": 1,
+   "start_time": 0.0,
+   "end_time": 4.0,
+   "voice_text": "ప్రపంచ పటంలో పైన చిన్నగా కనిపించే ఈ తెల్లని భూమి పేరు గ్రీన్‌ల్యాండ్.",
+   "visual_description": "world map, small white Greenland at the top, camera pushes in",
+   "camera_move": "push_in",
+   "animation_type": "MAP",
+   "camera": {
+    "focus_from": [
+     58,
+     -40
+    ],
+    "focus_to": [
+     70,
+     -42
+    ],
+    "dist_from": 95,
+    "dist_to": 52,
+    "tilt_deg": 40,
+    "azimuth_deg": 0
+   },
+   "effects": []
+  },
+  {
+   "id": 2,
+   "start_time": 4.0,
+   "end_time": 8.0,
+   "voice_text": "చూడటానికి మంచుతో కప్పబడిన ఒక ద్వీపంలా కనిపిస్తుంది.",
+   "visual_description": "straight top-down on the ice-covered island, soft slow drift",
+   "camera_move": "top_down",
+   "animation_type": "MAP",
+   "camera": {
+    "focus_from": [
+     74,
+     -40
+    ],
+    "focus_to": [
+     70,
+     -42
+    ],
+    "dist_from": 24,
+    "dist_to": 20,
+    "tilt_deg": 1.5,
+    "azimuth_deg": 0
+   },
+   "effects": []
+  },
+  {
+   "id": 3,
+   "start_time": 8.0,
+   "end_time": 12.0,
+   "voice_text": "కానీ దీని వెనక ఒక పెద్ద రహస్యం ఉంది.",
+   "visual_description": "dramatic oblique push-in over the ice sheet, cold light",
+   "camera_move": "push_in",
+   "animation_type": "MAP",
+   "camera": {
+    "focus_from": [
+     76,
+     -38
+    ],
+    "focus_to": [
+     73,
+     -40
+    ],
+    "dist_from": 17,
+    "dist_to": 8,
+    "tilt_deg": 55,
+    "azimuth_deg": 25
+   },
+   "effects": []
+  },
+  {
+   "id": 4,
+   "start_time": 12.0,
+   "end_time": 16.0,
+   "voice_text": "ఇది ప్రపంచంలోనే అతిపెద్ద ద్వీపం.",
+   "visual_description": "pull out to show Greenland's size against its neighbours",
+   "camera_move": "pull_out",
+   "animation_type": "MAP",
+   "camera": {
+    "focus_from": [
+     72,
+     -42
+    ],
+    "focus_to": [
+     66,
+     -38
+    ],
+    "dist_from": 10,
+    "dist_to": 42,
+    "tilt_deg": 30,
+    "azimuth_deg": -20
+   },
+   "effects": []
+  },
+  {
+   "id": 5,
+   "start_time": 16.0,
+   "end_time": 20.0,
+   "voice_text": "అయినా దీని జనాభా కేవలం 56 వేలు మాత్రమే.",
+   "visual_description": "top-down, a few settlements marked with pulsing rings: sparse population",
+   "camera_move": "top_down",
+   "animation_type": "MAP",
+   "camera": {
+    "focus_from": [
+     66,
+     -47
+    ],
+    "focus_to": [
+     64.5,
+     -50
+    ],
+    "dist_from": 16,
+    "dist_to": 11,
+    "tilt_deg": 1.5,
+    "azimuth_deg": 0
+   },
+   "effects": [
+    {
+     "type": "markers",
+     "points": [
+      [
+       64.18,
+       -51.72
+      ],
+      [
+       69.22,
+       -51.1
+      ],
+      [
+       66.94,
+       -53.67
+      ],
+      [
+       60.72,
+       -46.03
+      ],
+      [
+       65.61,
+       -37.64
+      ]
+     ],
+     "color": [
+      1.0,
+      0.55,
+      0.12
+     ]
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "start_time": 20.0,
+   "end_time": 25.0,
+   "voice_text": "దీనిని డెన్మార్క్ పాలిస్తుంది, కానీ గ్రీన్‌ల్యాండ్ ప్రజలు స్వతంత్రం కావాలని కోరుకుంటున్నారు.",
+   "visual_description": "Denmark highlighted, route arc to Nuuk, then ring pulses on Greenland",
+   "camera_move": "push_in",
+   "animation_type": "MAP",
+   "camera": {
+    "focus_from": [
+     60,
+     -20
+    ],
+    "focus_to": [
+     62,
+     -30
+    ],
+    "dist_from": 75,
+    "dist_to": 40,
+    "tilt_deg": 40,
+    "azimuth_deg": 0
+   },
+   "effects": [
+    {
+     "type": "highlight",
+     "iso": 208,
+     "color": [
+      0.9,
+      0.1,
+      0.12
+     ],
+     "strength": 3.0
+    },
+    {
+     "type": "arc",
+     "from": [
+      55.68,
+      12.57
+     ],
+     "to": [
+      64.18,
+      -51.72
+     ],
+     "color": [
+      1.0,
+      0.3,
+      0.25
+     ],
+     "height": 5.0
+    },
+    {
+     "type": "markers",
+     "points": [
+      [
+       64.18,
+       -51.72
+      ]
+     ],
+     "color": [
+      1.0,
+      0.85,
+      0.3
+     ]
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "start_time": 25.0,
+   "end_time": 30.0,
+   "voice_text": "ఇక్కడి మంచు కరిగితే, ప్రపంచంలో సముద్ర మట్టం 7 మీటర్లు పెరుగుతుంది.",
+   "visual_description": "ice cover melts away in patches, top-down",
+   "camera_move": "top_down",
+   "animation_type": "MAP",
+   "camera": {
+    "focus_from": [
+     72,
+     -42
+    ],
+    "focus_to": [
+     72,
+     -42
+    ],
+    "dist_from": 22,
+    "dist_to": 18,
+    "tilt_deg": 1.5,
+    "azimuth_deg": 0
+   },
+   "effects": [
+    {
+     "type": "melt"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "start_time": 30.0,
+   "end_time": 35.0,
+   "voice_text": "అందుకే అమెరికా, చైనా, రష్యా అందరి కళ్ళు ఇప్పుడు దీని మీదే ఉన్నాయి.",
+   "visual_description": "wide pull-out, USA, Russia and China light up with arcs to Greenland",
+   "camera_move": "pull_out",
+   "animation_type": "MAP",
+   "camera": {
+    "focus_from": [
+     62,
+     -30
+    ],
+    "focus_to": [
+     56,
+     -10
+    ],
+    "dist_from": 45,
+    "dist_to": 115,
+    "tilt_deg": 35,
+    "azimuth_deg": 0
+   },
+   "effects": [
+    {
+     "type": "highlight",
+     "iso": 840,
+     "color": [
+      0.15,
+      0.4,
+      1.0
+     ],
+     "strength": 2.5
+    },
+    {
+     "type": "highlight",
+     "iso": 643,
+     "color": [
+      1.0,
+      0.2,
+      0.2
+     ],
+     "strength": 2.5
+    },
+    {
+     "type": "highlight",
+     "iso": 156,
+     "color": [
+      1.0,
+      0.75,
+      0.1
+     ],
+     "strength": 2.5
+    },
+    {
+     "type": "arc",
+     "from": [
+      38.9,
+      -77.0
+     ],
+     "to": [
+      72,
+      -42
+     ],
+     "color": [
+      0.3,
+      0.55,
+      1.0
+     ],
+     "height": 9.0
+    },
+    {
+     "type": "arc",
+     "from": [
+      55.75,
+      37.6
+     ],
+     "to": [
+      72,
+      -42
+     ],
+     "color": [
+      1.0,
+      0.3,
+      0.3
+     ],
+     "height": 9.0
+    },
+    {
+     "type": "arc",
+     "from": [
+      39.9,
+      116.4
+     ],
+     "to": [
+      72,
+      -42
+     ],
+     "color": [
+      1.0,
+      0.8,
+      0.2
+     ],
+     "height": 12.0
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "start_time": 35.0,
+   "end_time": 40.0,
+   "voice_text": "మంచు కింద దాగి ఉన్న నిధుల కోసం, ప్రపంచ శక్తులు పోటీ పడుతున్నాయి.",
+   "visual_description": "oblique push-in, glowing mineral points appear under the ice",
+   "camera_move": "push_in",
+   "animation_type": "MAP",
+   "camera": {
+    "focus_from": [
+     72,
+     -42
+    ],
+    "focus_to": [
+     70,
+     -40
+    ],
+    "dist_from": 18,
+    "dist_to": 7,
+    "tilt_deg": 48,
+    "azimuth_deg": -30
+   },
+   "effects": [
+    {
+     "type": "treasure",
+     "count": 34
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "start_time": 40.0,
+   "end_time": 45.0,
+   "voice_text": "ఈ చిన్న ద్వీపం, రేపటి ప్రపంచ భవిష్యత్తును నిర్ణయించబోతుంది.",
+   "visual_description": "final slow pull-out, Greenland alone at the top of the world, golden coast glow",
+   "camera_move": "pull_out",
+   "animation_type": "MAP",
+   "camera": {
+    "focus_from": [
+     70,
+     -42
+    ],
+    "focus_to": [
+     62,
+     -40
+    ],
+    "dist_from": 12,
+    "dist_to": 80,
+    "tilt_deg": 35,
+    "azimuth_deg": 0
+   },
+   "effects": [
+    {
+     "type": "coastglow"
+    }
+   ]
+  }
+ ]
+}
